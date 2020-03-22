@@ -1,0 +1,17 @@
+hs.eventtap.keyStroke({"cmd"}, "2", 0)
+hs.eventtap.keyStroke({}, "end" ,0 )
+hs.eventtap.keyStroke({"cmd"}, "1" ,0 )
+hs.eventtap.keyStroke({"shift"}, "tab" ,0 )
+
+hs.eventtap.keyStroke({}, "e" ,0 )
+hs.eventtap.keyStroke({}, "n" ,0 )
+hs.eventtap.keyStroke({}, "d" ,0 )
+hs.eventtap.keyStroke({}, "i" ,0 )
+hs.eventtap.keyStroke({}, "n" ,0 )
+hs.eventtap.keyStroke({}, "g" ,1000000 )
+
+hs.eventtap.keyStroke({}, "tab",500000)
+hs.eventtap.keyStroke({}, "tab",500000)
+hs.eventtap.keyStroke({}, "tab",500000)
+hs.eventtap.keyStroke({}, "up")
+hs.eventtap.keyStroke({}, "v")
